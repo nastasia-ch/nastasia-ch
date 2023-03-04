@@ -3,10 +3,13 @@
 </br>Я начинающий QA инженер.
 </br>В настоящее время обучаюсь школе автоматизированного тестировани [QA.GURU](https://qa.guru).
 
+<img src="media/icons/QA.GURU-logo.png"></td><td valign="middle">Курсы по автоматизации тестирования на Java в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a>
+
+
 <table width="100%" border='0'>
    <tr> 
-    <tr><td width="30%" valign="bottom"><img src="media/icons/QA.GURU-logo.png"></td><td valign="middle">Курсы по автоматизации тестирования на Java в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a></td></tr>
-    <tr><td width="0%" valign="bottom"><img src="media/icons/LevelUp-logo.png"></td><td valign="middle">Курсы ручного тестирования "Тестировщик ПО (Junior)" в Школе IT-образования «Level UP» <a target="_blank" href="https://levelp.ru">LevelUp</a></td></tr>
+    <tr><td width="20%" valign="bottom"><img src="media/icons/QA.GURU-logo.png"></td><td valign="middle">Курсы по автоматизации тестирования на Java в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a></td></tr>
+    <tr><td width="20%" valign="bottom"><img width="30%" src="media/icons/LevelUp-logo.png"></td><td valign="middle">Курсы ручного тестирования "Тестировщик ПО (Junior)" в Школе IT-образования «Level UP» <a target="_blank" href="https://levelp.ru">LevelUp</a></td></tr>
    </tr>
   </table>
 
