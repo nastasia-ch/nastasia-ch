@@ -33,7 +33,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nastasia-ch&repo=reverso.net-tests)](https://github.com/nastasia-ch/reverso.net-tests)
 
-## My stats:
+## My stats
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nastasia-ch)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nastasia-ch)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nastasia-ch)
