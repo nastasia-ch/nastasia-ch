@@ -3,15 +3,9 @@
 </br>Я начинающий QA инженер.
 </br>В настоящее время обучаюсь школе автоматизированного тестировани [QA.GURU](https://qa.guru).
 
-<img src="media/icons/QA.GURU-logo.png"></td><td valign="middle">Курсы по автоматизации тестирования на Java в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a>
-
-
-<table width="100%" border='0'>
-   <tr> 
-    <tr><td width="20%" valign="bottom"><img src="media/icons/QA.GURU-logo.png"></td><td valign="middle">Курсы по автоматизации тестирования на Java в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a></td></tr>
-    <tr><td width="20%" valign="bottom"><img width="30%" src="media/icons/LevelUp-logo.png"></td><td valign="middle">Курсы ручного тестирования "Тестировщик ПО (Junior)" в Школе IT-образования «Level UP» <a target="_blank" href="https://levelp.ru">LevelUp</a></td></tr>
-   </tr>
-  </table>
+## <a name="Курсы">Курсы</a>
+- Курсы по автоматизации тестирования на Java в Школе инженеров по автоматизации тестирования [<img align="center" width="8%" src="media/icons/QA.GURU-logo.png">](https://qa.guru)
+- Курсы ручного тестирования "Тестировщик ПО (Junior)" в Школе IT-образования [<img align="center" width="6%" src="media/icons/LevelUp-logo.png">](https://levelp.ru)
 
 ## <a name="Стек-технологий">Стек технологий</a>
 <p  align="center">
@@ -33,8 +27,8 @@
 <img width="5%" title="Telegram" src="media/icons/telegram-logo.svg">
 </p>
 
-## My projects:
-### :heavy_check_mark: UI, API и Mobile тесты системы контекстного перевода Reverso Context
+## Мои проекты
+### :heavy_check_mark: UI, API и mobile тестирование системы контекстного перевода Reverso Context
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nastasia-ch&repo=reverso.net-tests)](https://github.com/nastasia-ch/reverso.net-tests)
