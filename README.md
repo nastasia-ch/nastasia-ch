@@ -3,7 +3,7 @@
 </br>Я начинающий QA инженер.
 </br>В настоящее время обучаюсь школе автоматизированного тестировани [QA.GURU](https://qa.guru).
 
-## <a name="Курсы">Курсы</a>
+## Курсы
 - Курсы по автоматизации тестирования на Java в Школе инженеров по автоматизации тестирования [<img align="center" width="8%" src="media/icons/QA.GURU-logo.png">](https://qa.guru)
 - Курсы ручного тестирования "Тестировщик ПО (Junior)" в Школе IT-образования [<img align="center" width="6%" src="media/icons/LevelUp-logo.png">](https://levelp.ru)
 
@@ -32,6 +32,11 @@
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nastasia-ch&repo=reverso.net-tests)](https://github.com/nastasia-ch/reverso.net-tests)
+
+### :heavy_check_mark: Ручное тестирование десктопного приложения Text Filter
+Реализован во время обучения в Школе IT-образования <a target="_blank" href="https://levelp.ru">LeveUp</a>
+
+Cсылка на [проект](https://drive.google.com/file/d/1LvXeHppGEu1r4PY4wNrcDszPzK8Ps3To/view).
 
 ## My stats
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nastasia-ch)
